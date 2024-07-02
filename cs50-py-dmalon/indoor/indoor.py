@@ -1,3 +1,3 @@
 userinput = input("Enter a text : ")
-print("Print user input.... ", userinput)
+print("User Input : ", userinput)
 print(userinput.lower())
