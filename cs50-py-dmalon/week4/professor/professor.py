@@ -25,21 +25,16 @@ def main():
         print(f"{x} + {y} = ?")
 
         attempt = 0
-        while attempt < 3:
-            # answer = int(input("Your answer: "))
+        for attempt in range(3):
             answer = input()
-            if answer.isdigit():
-                answer = int(answer)
-                if answer == correct_answer:
-                    score += 1
-                    break
+
+            if answer.isdigit() and int(answer) == correct_answer:
+                score += 1
+                break
             else:
                 print("EEE")
-            
-            attempt += 1
-            # print("attempt: ", attempt)
-            if attempt == 3:
-                print(f"{x} + {y} = {correct_answer}")
+                if attempt == 2:
+                    print(f"{x} + {y} = {correct_answer}")
 
     print(f"Score: {score}")
 
