@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4fd2e62-ef52-46d1-a123-c551cebe00d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/degrees/degrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/large/movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/large/people.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/large/stars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/small/movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/small/people.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/small/stars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/degrees/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/maze.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/maze1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/maze2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/maze3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src0/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualize_degrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/read_from_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/read_from_file_then_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/user_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/write_to_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs50-py-dmalon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cs50-py-dmalon/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs50-py-dmalon/week4/figlet/figlet.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs50-py-dmalon/week4/figlet/figlet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs50-py-dmalon/week5/test_bank/test_bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs50-py-dmalon/week5/test_bank/test_bank.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.degrees.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maze.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maze_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maze_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.visualize_degrees.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vishnuparandhaman/code/python2024&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.app.executor": "Run",
+    "Python.degrees.executor": "Run",
+    "Python.maze.executor": "Run",
+    "Python.maze_1.executor": "Run",
+    "Python.maze_3.executor": "Run",
+    "Python.visualize_degrees.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week6/classwork",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -193,5 +183,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cs50-py-dmalon/week4/figlet/figlet.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

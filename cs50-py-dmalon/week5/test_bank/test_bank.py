@@ -1,3 +1,6 @@
+# pytest -v test_bank.py
+# pytest test_bank.py
+
 from bank import value
 
 def test_value_hello():

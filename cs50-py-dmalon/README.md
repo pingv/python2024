@@ -1,5 +1,10 @@
 # CS50 Python Course Setup
 
+## CS50 MIT GitHub Repository
+
+- https://submit.cs50.io/courses
+- https://submit.cs50.io/users/pingv
+
 ## Testing and Submission Commands
 
 ### Check if tools are installed
@@ -45,6 +50,10 @@ GitHub authentication is required for submission
 #Example
 (.venv) vishnuparandhaman@Vishnus-MacBook-Air-2 indoor % pwd
 $ /Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week0/indoor
+
+# Note that except for the last directory (here, indoor) the path is different
+# --- cs50/problems/2022/python/indoor
+# --- /Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week0/indoor
 (.venv) vishnuparandhaman@Vishnus-MacBook-Air-2 indoor % check50 cs50/problems/2022/python/indoor
 Connecting.....
 ```
