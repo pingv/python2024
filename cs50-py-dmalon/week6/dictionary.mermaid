@@ -1,0 +1,16 @@
+flowchart TD
+    subgraph "CSV File Content"
+        A["Row 1: Name, House, Address"]
+        B["Row 2: Harry Potter, Gryffindor, No.4 Privet Drive"]
+    end
+
+    subgraph "DictReader Process"
+        C["1. Read first row as headers:<br>['Name', 'House', 'Address']"]
+        D["2. Read next row as values:<br>['Harry Potter', 'Gryffindor', 'No.4 Privet Drive']"]
+        E["3. Create dictionary mapping:<br>{<br>'Name': 'Harry Potter',<br>'House': 'Gryffindor',<br>'Address': 'No.4 Privet Drive'<br>}"]
+    end
+
+    A --> C
+    B --> D
+    C --> E
+    D --> E

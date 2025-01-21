@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4fd2e62-ef52-46d1-a123-c551cebe00d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/harry_potter_characters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/dictionary.mermaid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/regular.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/after.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/before.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/scourgify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/output.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/took.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/sicilian.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/read_from_file_then_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork/read_from_file_then_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +57,57 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.app.executor": "Run",
     "Python.degrees.executor": "Run",
+    "Python.lines.executor": "Debug",
+    "Python.lines.py runner.executor": "Debug",
     "Python.maze.executor": "Run",
     "Python.maze_1.executor": "Run",
     "Python.maze_3.executor": "Run",
+    "Python.pizza.executor": "Run",
     "Python.read_from_file_then_sort.executor": "Run",
     "Python.visualize_degrees.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week6/classwork",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "/Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week6/shirt",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt" />
       <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/classwork" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt" />
+      <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify" />
+      <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.read_from_file_then_sort">
+  <component name="RunManager" selected="Python.pizza">
+    <configuration name="lines.py runner" type="PythonConfigurationType" factoryName="Python">
+      <module name="python2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (python2024)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs50-py-dmalon/week6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs50-py-dmalon/week6/lines.py" />
+      <option name="PARAMETERS" value="lines.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="maze_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python2024" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +174,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs50-py-dmalon/week6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs50-py-dmalon/week6/pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="read_from_file_then_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2024" />
       <option name="ENV_FILES" value="" />
@@ -171,12 +243,15 @@
     <list>
       <item itemvalue="Python.maze_2" />
       <item itemvalue="Python.maze_3" />
+      <item itemvalue="Python.lines.py runner" />
+      <item itemvalue="Python.pizza" />
       <item itemvalue="Python.read_from_file_then_sort" />
       <item itemvalue="Python.visualize_degrees" />
       <item itemvalue="Python.maze_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pizza" />
         <item itemvalue="Python.read_from_file_then_sort" />
         <item itemvalue="Python.maze_1" />
         <item itemvalue="Python.visualize_degrees" />
