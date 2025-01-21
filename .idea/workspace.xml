@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4fd2e62-ef52-46d1-a123-c551cebe00d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/dictionary.mermaid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/regular.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/after.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/before.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/scourgify/scourgify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/after3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/before3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/output.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/took.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/sicilian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.app.executor": "Run",
-    "Python.degrees.executor": "Run",
-    "Python.lines.executor": "Debug",
-    "Python.lines.py runner.executor": "Debug",
-    "Python.maze.executor": "Run",
-    "Python.maze_1.executor": "Run",
-    "Python.maze_3.executor": "Run",
-    "Python.pizza.executor": "Run",
-    "Python.read_from_file_then_sort.executor": "Run",
-    "Python.visualize_degrees.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week6/shirt",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.degrees.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lines.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lines.py runner.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.maze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maze_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maze_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_from_file_then_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualize_degrees.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vishnuparandhaman/code/python2024/cs50-py-dmalon/week6/shirt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt" />
