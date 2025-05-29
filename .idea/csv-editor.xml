@@ -3,20 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/cs50-py-dmalon/week6/after.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/cs50-py-dmalon/week6/before.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/cs50-py-dmalon/week6/classwork/harry_potter_characters.csv">
           <value>
             <Attribute>

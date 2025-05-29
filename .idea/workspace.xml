@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4fd2e62-ef52-46d1-a123-c551cebe00d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week6/shirt/shirt_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week7/numb3rs/numb3rs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week7/response/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week7/um/um.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week7/watch/watch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs50-py-dmalon/week7/working/working.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,13 +228,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.lines.py runner" />
       <item itemvalue="Python.maze_2" />
       <item itemvalue="Python.maze_3" />
-      <item itemvalue="Python.lines.py runner" />
+      <item itemvalue="Python.maze_1" />
       <item itemvalue="Python.pizza" />
       <item itemvalue="Python.read_from_file_then_sort" />
       <item itemvalue="Python.visualize_degrees" />
-      <item itemvalue="Python.maze_1" />
     </list>
     <recent_temporary>
       <list>
@@ -243,7 +248,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
