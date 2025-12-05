@@ -1,12 +1,20 @@
 import os
+import sys
 from fastapi import FastAPI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
 from langserve import add_routes
 
-# Set the OpenAI API Key as an environment variable
-os.environ["OPENAI_API_KEY"] = "<REDACTED"
+# Import credentials from config
+try:
+    from config import OPENAI_API_KEY
+    os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+except ImportError:
+    print("❌ ERROR: config.py not found!")
+    print("📝 Please copy config.example.py to config.py and add your OpenAI API key")
+    print("   cp config.example.py config.py")
+    sys.exit(1)
 
 # Create prompt template
 system_template = "Translate the following into {language}:"
